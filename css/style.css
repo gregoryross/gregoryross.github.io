@@ -109,6 +109,9 @@
 		font-style: italic;
 		padding: 1em 0 1em 2em;
 	}
+	italic {
+	    font-style: italic;
+	}
 
 /* Section/Article */
 
