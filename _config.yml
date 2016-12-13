@@ -12,3 +12,7 @@ github_username:  gregoryross
 
 # Build settings
 markdown: kramdown
+
+# Custom variables
+excerpt_separator: "<!--more-->"
+
