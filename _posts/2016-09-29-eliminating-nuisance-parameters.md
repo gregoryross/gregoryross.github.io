@@ -9,7 +9,7 @@ The process of inferring conclusions from experimental observations often requir
 
 The likelihood function forms the basis for many statistical inference techniques. For example, one could estimate the parameters of a model by maximizing the likelihood. The problem is that likelihood functions frequently contain more parameters than we care about. The inexplicable or uninteresting noise that buffets processes of interest has to be parameterized and accounted for in the likelihood function. As Berger, Liseo, and Wolpert discuss in [this paper](https://projecteuclid.org/euclid.ss/1009211804), the existence of so-called ‘nuisance parameters’ severely hampers inference in many cases. The authors review a few of the common frequentist techniques for dealing with nuisance parameters in likelihood functions, but fall strongly in favor of integrating the likelihood function over the nuisance parameters. Although this method has a Bayesian flavor to it, the authors emphasize the practical benefits of integrated likelihoods, even for statisticians with more frequentist leanings.
 
-[This post previously appeared in [klogw.org](http://klogw.org/)].
+[This post previously appeared in [klogw.org](https://klogw.org/)].
 <!--more-->
 
 Berger et al. present a number of scenarios where an integrated likelihood function forms a more robust basis for inference than the frequentist candidates. The benefits of using an integrated likelihood are well demonstrated in Example 4 of the paper, which involves estimating a parameter from
