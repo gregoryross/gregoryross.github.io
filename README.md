@@ -1,4 +1,4 @@
-# www.gregoryaross.com
+# www.gregoryross.github.io
 My personal website to detail my research and interests. Can be accessed by clicking [here](https://www.gregoryaross.com).
 
 Currently hosted on `gregoryross.github.io`. 
